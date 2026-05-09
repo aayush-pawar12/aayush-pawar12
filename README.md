@@ -10,7 +10,7 @@
  <h2>Skills & Technologies</h2>
 
 • Languages: C, C++, Java, JavaScript, Python, TypeScript<br>
-• Frontend: React, TailwindCSS<br>
+• Frontend: React, TailwindCSS, HTML, CSS<br>
 • Backend & Frameworks: Flask, FastAPI<br>
 • Databases: MySQL, MongoDB<br>
 • Cloud & Deployment: AWS, Vercel, Netlify<br>
